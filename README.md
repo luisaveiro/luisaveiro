@@ -22,6 +22,8 @@ My methodology towards my work is to discover, innovate and deliver cutting edge
 
 I have been nominated in [45 Software Engineering Leaders in London worth watching in 2020](https://www.linkedin.com/posts/luisaveiro_im-featured-in-45-software-engineering-leaders-activity-6728938988024995840-bw6H) by Hays Digital Technology.
 
+---
+
 #### Current Position
 
 **Head of Software Development**  
@@ -30,6 +32,8 @@ Simplestream Ltd. - London, UK
 <p align="justify">
 Simplestream is the leader in Next Generation TV OTT Platforms; we offer a variety of products, services and platforms (Web, Hybrid TV, Mobile, Roku), which enables our clients to provide a unique streaming experience for their end-users. We collaborate with broadcasters, telecommunication providers and content producers, including Sky, Channel 4, CBS, Blaze (part of the A+E Networks), BFBS, Nova TV, Alchimie TVPlayer, Sony, UKTV, BKFC, BoxNation, Trace TV, History Hit. Racing TV & At The Races.
 </p>
+
+---
 
 #### Qualifications
 
@@ -41,6 +45,8 @@ Simplestream is the leader in Next Generation TV OTT Platforms; we offer a varie
 
 **International Diploma in Information Systems Engineering**  
 *CTI in collaboration with University of Cambridge & NCC Education*
+
+---
 
 #### Technology Stack
 
