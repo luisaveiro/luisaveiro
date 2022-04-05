@@ -1,23 +1,34 @@
 <p align="center">
-    <img title="Luis Aveiro | Discover • Innovate • Deliver" src="./images/header.png" />
+    <img 
+        title="Luis Aveiro | Discover • Innovate • Deliver" 
+        src="./images/header.png"
+    />
 </p>
 
 #### Summary
 
 <p align="justify">
-I specialise in business and operational growth in start-ups by providing technical leadership, hands-on development and the delivery experience of cloud-based solutions with a broad mix of languages, frameworks and technologies.
+I specialise in business and operational growth in start-ups by providing technical leadership, hands-on development 
+and the delivery experience of cloud-based solutions with a broad mix of languages, frameworks and technologies.
 </p>
 
 <p align="justify">
-My primary objective is to architect and build state of the art technologies to solve genuine real-world problems; whilst leading, building and inspiring multiple high-performing software engineering teams. I’m an advocate for professional development to allow software engineers to provide substantial contributions for company growth and longevity.
+My primary objective is to architect and build state of the art technologies to solve genuine real-world problems; 
+whilst leading, building and inspiring multiple high-performing software engineering teams. I’m an advocate for 
+professional development to allow software engineers to provide substantial contributions for company growth and 
+longevity.
 </p>
 
 <p align="justify">
-My qualifications have provided me with a variety of information systems knowledge and practical skills, primarily in software engineering. I have a variety of business skills which allows me to relate to all levels of management, to a variety of business positions, and work successfully with a diversity of personalities, customers, and end-users. 
+My qualifications have provided me with a variety of information systems knowledge and practical skills, primarily in 
+software engineering. I have a variety of business skills which allows me to relate to all levels of management, to a 
+variety of business positions, and work successfully with a diversity of personalities, customers, and end-users. 
 </p>
 
 <p align="justify">
-My methodology towards my work is to discover, innovate and deliver cutting edge solutions with elegant UX/UI. I will push my abilities to be a valuable asset for my team, and to bring the best out of my team. To ensure we can drive business opportunities by continuously delivering best-in-class cloud-based systems within budgets and deadlines.
+My methodology towards my work is to discover, innovate and deliver cutting edge solutions with elegant UX/UI. I will 
+push my abilities to be a valuable asset for my team, and to bring the best out of my team. To ensure we can drive 
+business opportunities by continuously delivering best-in-class cloud-based systems within budgets and deadlines.
 </p>
 
 I have been nominated in [45 Software Engineering Leaders in London worth watching in 2020](https://www.linkedin.com/posts/luisaveiro_im-featured-in-45-software-engineering-leaders-activity-6728938988024995840-bw6H) by Hays Digital Technology.
@@ -26,11 +37,12 @@ I have been nominated in [45 Software Engineering Leaders in London worth watchi
 
 #### Current Position
 
-**Head of Software Development**  
-Simplestream Ltd. - London, UK
+**Technical Director**  
+Tribal Worldwide - London, UK
 
 <p align="justify">
-Simplestream is the leader in Next Generation TV OTT Platforms; we offer a variety of products, services and platforms (Web, Hybrid TV, Mobile, Roku), which enables our clients to provide a unique streaming experience for their end-users. We collaborate with broadcasters, telecommunication providers and content producers, including Sky, Channel 4, CBS, Blaze (part of the A+E Networks), BFBS, Nova TV, Alchimie TVPlayer, Sony, UKTV, BKFC, BoxNation, Trace TV, History Hit. Racing TV & At The Races.
+Tribal is a Total Experience agency. We create brand experience ecosystems that help build competitive advantage for 
+our clients.
 </p>
 
 ---
@@ -179,16 +191,10 @@ Programming languages, frameworks and other tools that I enjoy to work with.
             <br>Symfony
         </td>
         <td align="center" width="96">
-            <a href="https://www.travis-ci.com" target="_blank">
+            <a href="https://tailwindcss.com" target="_blank">
                 <img src="./images/icons/tailwindcss.svg" width="48" height="48" alt="Tailwind CSS" />
             </a>
             <br>Tailwind&nbsp;CSS
-        </td>
-        <td align="center" width="96">
-            <a href="https://tailwindcss.com" target="_blank">
-                <img src="./images/icons/travis.svg" width="48" height="48" alt="Travis CI" />
-            </a>
-            <br>Travis&nbsp;CI
         </td>
         <td align="center" width="96">
             <a href="https://www.typescriptlang.org" target="_blank">
@@ -201,6 +207,12 @@ Programming languages, frameworks and other tools that I enjoy to work with.
                 <img src="./images/icons/vscode.svg" width="48" height="48" alt="VS Code" />
             </a>
             <br>VS&nbsp;Code
+        </td>
+        <td align="center" width="96">
+            <a href="https://vitejs.dev/" target="_blank">
+                <img src="./images/icons/vitejs.svg" width="48" height="48" alt="Vue.js" />
+            </a>
+            <br>Vite
         </td>
         <td align="center" width="96">
             <a href="https://vuejs.org" target="_blank">
