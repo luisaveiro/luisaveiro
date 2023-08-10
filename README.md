@@ -8,30 +8,23 @@
 #### Summary
 
 <p align="justify">
-I specialise in business and operational growth in start-ups by providing technical leadership, hands-on development 
-and the delivery experience of cloud-based solutions with a broad mix of languages, frameworks and technologies.
+As an engineering leader, I strive in cultivating high-performance teams and fostering a thriving engineering culture. My primary motivation is to inspire and motivate cross-functional teams to function in a collaborative and innovative work environment.  I’m an advocate for professional development to allow software engineers to exceed expectations and provide substantial contributions to company growth and longevity. Additionally, I prioritise creating an inclusive and supportive atmosphere that encourages open dialogue and continuous improvement.
 </p>
 
 <p align="justify">
-My primary objective is to architect and build state of the art technologies to solve genuine real-world problems; 
-whilst leading, building and inspiring multiple high-performing software engineering teams. I’m an advocate for 
-professional development to allow software engineers to provide substantial contributions for company growth and 
-longevity.
+My expertise in driving high-performance teams extends beyond leadership, encompassing a keen focus on optimising processes and workflows. By implementing efficient systems and streamlining operations, I have successfully enhanced productivity and reduced time-to-market for various projects. I understand the importance of well-defined processes and leverage data-driven insights to identify areas for improvement. This approach has facilitated seamless collaboration among teams, leading to increased efficiency and better outcomes. As a result, I am well-versed in leveraging the best practices and methodologies to ensure projects are executed with precision and excellence.
 </p>
 
 <p align="justify">
-My qualifications have provided me with a variety of information systems knowledge and practical skills, primarily in 
-software engineering. I have a variety of business skills which allows me to relate to all levels of management, to a 
-variety of business positions, and work successfully with a diversity of personalities, customers, and end-users. 
+I have a passion for solution design and system architecture. My proficiency in developing cloud-based solutions spans a diverse range of languages, frameworks, and technologies. Leveraging cutting-edge tools and industry standards, I have consistently delivered innovative and scalable solutions that meet complex challenges. My focus on product development and delivery has yielded outstanding results, driving business growth and operational success in start-up environments. I combine hands-on development experience with a strategic vision, ensuring that solutions are technically robust and aligned with the overarching business objectives.
 </p>
 
 <p align="justify">
-My methodology towards my work is to discover, innovate and deliver cutting edge solutions with elegant UX/UI. I will 
-push my abilities to be a valuable asset for my team, and to bring the best out of my team. To ensure we can drive 
-business opportunities by continuously delivering best-in-class cloud-based systems within budgets and deadlines.
+In addition to my professional endeavours, I am deeply committed to fostering collaboration and knowledge sharing within the tech community. As the founder DevCampfire, a small vibrant community of practice, I provide a platform for passionate tech individuals to socialise, collaborate, and share their expertise. Furthermore, my dedication to improving developer workflows extends to my contributions to open-source projects. My open-source projects are specifically designed to streamline processes and eliminate unnecessary onboarding challenges for software engineers.
 </p>
 
-I have been nominated in [45 Software Engineering Leaders in London worth watching in 2020](https://www.linkedin.com/posts/luisaveiro_im-featured-in-45-software-engineering-leaders-activity-6728938988024995840-bw6H) by Hays Digital Technology.
+I have been nominated in the **45 Software Engineering Leaders in London worth watching in 2020** by Hays Digital Technology and in the **top 50 UK Software Engineering Leaders to watch in 2023** by Alfa Technology.
+
 
 ---
 
