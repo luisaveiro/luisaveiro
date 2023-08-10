@@ -23,19 +23,25 @@ I have a passion for solution design and system architecture. My proficiency in 
 In addition to my professional endeavours, I am deeply committed to fostering collaboration and knowledge sharing within the tech community. As the founder DevCampfire, a small vibrant community of practice, I provide a platform for passionate tech individuals to socialise, collaborate, and share their expertise. Furthermore, my dedication to improving developer workflows extends to my contributions to open-source projects. My open-source projects are specifically designed to streamline processes and eliminate unnecessary onboarding challenges for software engineers.
 </p>
 
-I have been nominated in the **45 Software Engineering Leaders in London worth watching in 2020** by Hays Digital Technology and in the **top 50 UK Software Engineering Leaders to watch in 2023** by Alfa Technology.
+---
 
+#### Nominations
+
+**45 Software Engineering Leaders in London worth watching in 2020**  
+*Hays Digital Technology*
+
+**Top 50 UK Software Engineering Leaders to watch in 2023**  
+*Alfa Technology*
 
 ---
 
 #### Current Position
 
 **Technical Director**  
-Tribal Worldwide - London, UK
+Tribal EMEA - London, UK
 
 <p align="justify">
-Tribal is a Total Experience agency. We create brand experience ecosystems that help build competitive advantage for 
-our clients.
+Tribal EMEA (previously called Tribal Worldwide) is a Total Experience Agency that works with clients across various industries to help them connect with their customers and achieve their marketing and business goals through technology and creativity.
 </p>
 
 ---
