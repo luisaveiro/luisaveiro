@@ -67,27 +67,33 @@ Programming languages, frameworks and other tools that I enjoy to work with.
     <tr>
         <td align="center" width="96">
             <a href="https://aws.amazon.com" target="_blank">
-                <img src="./images/icons/amazonwebservices.svg" width="48" height="48" alt="Amazon Web Services" />
+                <img src="./images/icons/aws.svg" width="48" height="48" alt="Amazon Web Services" />
             </a>
             <br>AWS
         </td>
         <td align="center" width="96">
-            <a href="https://angular.io" target="_blank">
-                <img src="./images/icons/angularjs.svg" width="48" height="48" alt="Angular" />
+            <a href="https://astro.build" target="_blank">
+                <img src="./images/icons/astro.svg" width="48" height="48" alt="Astro" />
             </a>
-            <br>Angular
+            <br>Astro
         </td>
         <td align="center" width="96">
-            <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-                <img src="./images/icons/csharp.svg" width="48" height="48" alt="C#" />
+            <a href="https://bun.sh" target="_blank">
+                <img src="./images/icons/bun.svg" width="48" height="48" alt="Bun" />
             </a>
-            <br>C#
+            <br>Bun
         </td>
         <td align="center" width="96">
-            <a href="https://www.cypress.io/" target="_blank">
+            <a href="https://www.cypress.io" target="_blank">
                 <img src="./images/icons/cypress.svg" width="48" height="48" alt="Cypress" />
             </a>
             <br>Cypress
+        </td>
+        <td align="center" width="96">
+            <a href="http://deno.com" target="_blank">
+                <img src="./images/icons/deno.svg" width="48" height="48" alt="Cypress" />
+            </a>
+            <br>Deno
         </td>
         <td align="center" width="96">
             <a href="https://www.docker.com" target="_blank">
@@ -96,11 +102,25 @@ Programming languages, frameworks and other tools that I enjoy to work with.
             <br>Docker
         </td>
         <td align="center" width="96">
+            <a href="https://github.com/features/actions" target="_blank">
+                <img src="./images/icons/github-actions.svg" width="48" height="48" alt="GitHub Actions" />
+            </a>
+            <br>GitHub Actions
+        </td>
+        <td align="center" width="96">
+            <a href="https://go.dev" target="_blank">
+                <img src="./images/icons/go.svg" width="48" height="48" alt="Golang" />
+            </a>
+            <br>Golang
+        </td>
+        <td align="center" width="96">
             <a href="https://graphql.org" target="_blank">
                 <img src="./images/icons/graphql.svg" width="48" height="48" alt="GraphQL" />
             </a>
             <br>GraphQL
         </td>
+     </tr>
+    <tr>
         <td align="center" width="96">
             <a href="https://www.javascript.com" target="_blank">
                 <img src="./images/icons/javascript.svg" width="48" height="48" alt="JavaScript" />
@@ -108,19 +128,11 @@ Programming languages, frameworks and other tools that I enjoy to work with.
             <br>JavaScript
         </td>
         <td align="center" width="96">
-            <a href="https://jestjs.io" target="_blank">
-                <img src="./images/icons/jest.svg" width="48" height="48" alt="Jest" />
-            </a>
-            <br>Jest
-        </td>
-        <td align="center" width="96">
             <a href="https://laravel.com" target="_blank">
                 <img src="./images/icons/laravel.svg" width="48" height="48" alt="Laravel" />
             </a>
             <br>Laravel
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <a href="https://www.mongodb.com" target="_blank">
                 <img src="./images/icons/mongodb.svg" width="48" height="48" alt="MongoDB" />
@@ -146,6 +158,12 @@ Programming languages, frameworks and other tools that I enjoy to work with.
             <br>Node.js
         </td>
         <td align="center" width="96">
+            <a href="https://www.npmjs.com" target="_blank">
+                <img src="./images/icons/Npm.svg" width="48" height="48" alt="npm" />
+            </a>
+            <br>npm
+        </td>
+        <td align="center" width="96">
             <a href="https://pestphp.com/" target="_blank">
                 <img src="./images/icons/pest.svg" width="48" height="48" alt="Pest" />
             </a>
@@ -157,11 +175,31 @@ Programming languages, frameworks and other tools that I enjoy to work with.
             </a>
             <br>PHP
         </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <a href="https://www.postman.com" target="_blank">
+                <img src="./images/icons/postman.svg" width="48" height="48" alt="Postman" />
+            </a>
+            <br>Postman
+        </td>
         <td align="center" width="96">
             <a href="https://www.python.org" target="_blank">
                 <img src="./images/icons/python.svg" width="48" height="48" alt="Python" />
             </a>
             <br>Python
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.raspberrypi.org" target="_blank">
+                <img src="./images/icons/raspberry-pi.svg" width="48" height="48" alt="Raspberry pi" />
+            </a>
+            <br>Raspberry&nbsp;pi
+        </td>
+        <td align="center" width="96">
+            <a href="https://react.dev" target="_blank">
+                <img src="./images/icons/react.svg" width="48" height="48" alt="React" />
+            </a>
+            <br>React
         </td>
         <td align="center" width="96">
             <a href="https://redis.io" target="_blank">
@@ -175,14 +213,26 @@ Programming languages, frameworks and other tools that I enjoy to work with.
             </a>
             <br>Sentry
         </td>
-    </tr>
-    <tr>
+        <td align="center" width="96">
+            <a href="https://socket.io" target="_blank">
+                <img src="./images/icons/socket.io.svg" width="48" height="48" alt="Socket.IO" />
+            </a>
+            <br>Socket.IO
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.sonarsource.com/products/sonarqube" target="_blank">
+                <img src="./images/icons/sonarqube.svg" width="48" height="48" alt="SonarQube" />
+            </a>
+            <br>SonarQube
+        </td>
         <td align="center" width="96">
             <a href="https://storybook.js.org" target="_blank">
                 <img src="./images/icons/storybook.svg" width="48" height="48" alt="Storybook" />
             </a>
             <br>Storybook
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <a href="https://symfony.com" target="_blank">
                 <img src="./images/icons/symfony.svg" width="48" height="48" alt="Symfony" />
@@ -196,10 +246,28 @@ Programming languages, frameworks and other tools that I enjoy to work with.
             <br>Tailwind&nbsp;CSS
         </td>
         <td align="center" width="96">
+            <a href="https://threejs.org" target="_blank">
+                <img src="./images/icons/three.js.svg" width="48" height="48" alt="Three.js" />
+            </a>
+            <br>Three.js
+        </td>
+        <td align="center" width="96">
             <a href="https://www.typescriptlang.org" target="_blank">
                 <img src="./images/icons/typescript.svg" width="48" height="48" alt="TypeScript" />
             </a>
             <br>TypeScript
+        </td>
+        <td align="center" width="96">
+            <a href="https://vitejs.dev" target="_blank">
+                <img src="./images/icons/vitejs.svg" width="48" height="48" alt="Vue.js" />
+            </a>
+            <br>Vite
+        </td>
+        <td align="center" width="96">
+            <a href="https://vitest.dev" target="_blank">
+                <img src="./images/icons/vitest.svg" width="48" height="48" alt="Vue.js" />
+            </a>
+            <br>Vitest
         </td>
         <td align="center" width="96">
             <a href="https://code.visualstudio.com" target="_blank">
@@ -208,22 +276,10 @@ Programming languages, frameworks and other tools that I enjoy to work with.
             <br>VS&nbsp;Code
         </td>
         <td align="center" width="96">
-            <a href="https://vitejs.dev/" target="_blank">
-                <img src="./images/icons/vitejs.svg" width="48" height="48" alt="Vue.js" />
-            </a>
-            <br>Vite
-        </td>
-        <td align="center" width="96">
             <a href="https://vuejs.org" target="_blank">
                 <img src="./images/icons/vuejs.svg" width="48" height="48" alt="Vue.js" />
             </a>
             <br>Vue.js
-        </td>
-        <td align="center" width="96">
-            <a href="https://webpack.js.org" target="_blank">
-                <img src="./images/icons/webpack.svg" width="48" height="48" alt="Webpack" />
-            </a>
-            <br>Webpack
         </td>
         <td align="center" width="96">
             <a href="https://yarnpkg.com" target="_blank">
