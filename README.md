@@ -258,16 +258,16 @@ Programming languages, frameworks and other tools that I enjoy to work with.
             <br>TypeScript
         </td>
         <td align="center" width="96">
-            <a href="https://vitejs.dev" target="_blank">
-                <img src="./images/icons/vitejs.svg" width="48" height="48" alt="Vue.js" />
-            </a>
-            <br>Vite
-        </td>
-        <td align="center" width="96">
             <a href="https://code.visualstudio.com" target="_blank">
                 <img src="./images/icons/vscode.svg" width="48" height="48" alt="VS Code" />
             </a>
             <br>VS&nbsp;Code
+        </td>
+        <td align="center" width="96">
+            <a href="https://vitejs.dev" target="_blank">
+                <img src="./images/icons/vitejs.svg" width="48" height="48" alt="Vue.js" />
+            </a>
+            <br>Vite
         </td>
         <td align="center" width="96">
             <a href="https://vitest.dev" target="_blank">
