@@ -159,7 +159,7 @@ Programming languages, frameworks and other tools that I enjoy to work with.
         </td>
         <td align="center" width="96">
             <a href="https://www.npmjs.com" target="_blank">
-                <img src="./images/icons/Npm.svg" width="48" height="48" alt="npm" />
+                <img src="./images/icons/npm.svg" width="48" height="48" alt="npm" />
             </a>
             <br>npm
         </td>
