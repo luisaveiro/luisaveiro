@@ -90,10 +90,16 @@ Programming languages, frameworks and other tools that I enjoy to work with.
             <br>Cypress
         </td>
         <td align="center" width="96">
-            <a href="http://deno.com" target="_blank">
+            <a href="https://deno.com/" target="_blank">
                 <img src="./images/icons/deno.svg" width="48" height="48" alt="Cypress" />
             </a>
             <br>Deno
+        </td>
+        <td align="center" width="96">
+            <a href="https://expo.dev/" target="_blank">
+                <img src="./images/icons/expo.svg" width="48" height="48" alt="Cypress" />
+            </a>
+            <br>Expo
         </td>
         <td align="center" width="96">
             <a href="https://www.docker.com" target="_blank">
@@ -113,14 +119,14 @@ Programming languages, frameworks and other tools that I enjoy to work with.
             </a>
             <br>Golang
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <a href="https://graphql.org" target="_blank">
                 <img src="./images/icons/graphql.svg" width="48" height="48" alt="GraphQL" />
             </a>
             <br>GraphQL
         </td>
-     </tr>
-    <tr>
         <td align="center" width="96">
             <a href="https://www.javascript.com" target="_blank">
                 <img src="./images/icons/javascript.svg" width="48" height="48" alt="JavaScript" />
@@ -144,12 +150,6 @@ Programming languages, frameworks and other tools that I enjoy to work with.
                 <img src="./images/icons/mysql.svg" width="48" height="48" alt="MySQL" />
             </a>
             <br>MySQL
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.nginx.com" target="_blank">
-                <img src="./images/icons/nginx.svg" width="48" height="48" alt="Nginx" />
-            </a>
-            <br>Nginx
         </td>
         <td align="center" width="96">
             <a href="https://nodejs.org" target="_blank">
@@ -294,7 +294,7 @@ Programming languages, frameworks and other tools that I enjoy to work with.
 ---
 
 <p align="center">
-  <a href="http://github.com/luisaveiro" target="_blank">GitHub</a> •
+  <a href="https://github.com/luisaveiro" target="_blank">GitHub</a> •
   <a href="https://uk.linkedin.com/in/luisaveiro" target="_blank">LinkedIn</a> •
   <a href="https://twitter.com/luisdeaveiro" target="_blank">Twitter</a>
 </p>
