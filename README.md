@@ -5,19 +5,15 @@
 #### Summary
 
 <p align="justify">
-As an engineering leader, I strive in cultivating high-performance teams and fostering a thriving engineering culture. My primary motivation is to inspire and motivate cross-functional teams to function in a collaborative and innovative work environment.  I’m an advocate for professional development to allow software engineers to exceed expectations and provide substantial contributions to company growth and longevity. Additionally, I prioritise creating an inclusive and supportive atmosphere that encourages open dialogue and continuous improvement.
+I believe great technology starts with great people. Throughout my career, I have focused on building and leading high-performing engineering teams that do more than write code; they grow as innovative, collaborative groups delivering world-class solutions. For me, technology leadership means empowering people to transform complex challenges into opportunities for growth and meaningful impact.
 </p>
 
 <p align="justify">
-My expertise in driving high-performance teams extends beyond leadership, encompassing a keen focus on optimising processes and workflows. By implementing efficient systems and streamlining operations, I have successfully enhanced productivity and reduced time-to-market for various projects. I understand the importance of well-defined processes and leverage data-driven insights to identify areas for improvement. This approach has facilitated seamless collaboration among teams, leading to increased efficiency and better outcomes. As a result, I am well-versed in leveraging the best practices and methodologies to ensure projects are executed with precision and excellence.
+I specialise in partnering with start-ups and scale-ups across diverse industries to build resilient technology foundations that grow with their ambitions. From architecting scalable cloud solutions to modernising workflows and streamlining delivery pipelines, I combine hands-on technical leadership with strong operational and strategic insight. I establish engineering practices that balance speed with quality, ensuring teams deliver robust products efficiently while managing costs. By aligning every technical decision with clear business objectives, I help companies accelerate time-to-market, optimise resources, and maintain a strong competitive edge.
 </p>
 
 <p align="justify">
-I have a passion for solution design and system architecture. My proficiency in developing cloud-based solutions spans a diverse range of languages, frameworks, and technologies. Leveraging cutting-edge tools and industry standards, I have consistently delivered innovative and scalable solutions that meet complex challenges. My focus on product development and delivery has yielded outstanding results, driving business growth and operational success in start-up environments. I combine hands-on development experience with a strategic vision, ensuring that solutions are technically robust and aligned with the overarching business objectives.
-</p>
-
-<p align="justify">
-In addition to my professional endeavours, I am deeply committed to fostering collaboration and knowledge sharing within the tech community. As the founder DevCampfire, a small vibrant community of practice, I provide a platform for passionate tech individuals to socialise, collaborate, and share their expertise. Furthermore, my dedication to improving developer workflows extends to my contributions to open-source projects. My open-source projects are specifically designed to streamline processes and eliminate unnecessary onboarding challenges for software engineers.
+I view continuous learning as essential to great leadership, which is why I remain curious, continually expand my skills, and embrace emerging technologies to keep my teams and projects one step ahead. I’m also an active contributor to open-source development, creating tools and resources that streamline developer workflows.
 </p>
 
 ---
@@ -34,11 +30,11 @@ In addition to my professional endeavours, I am deeply committed to fostering co
 
 #### Current Position
 
-**Technical Director**  
-Tribal EMEA - London, UK
+**Fractional CTO**  
+MS2 Group Limited - London, UK
 
 <p align="justify">
-Tribal EMEA (previously called Tribal Worldwide) is a Total Experience Agency that works with clients across various industries to help them connect with their customers and achieve their marketing and business goals through technology and creativity.
+MS2 Group is a technology partner and business accelerator. Focusing on delivering practical digital transformation for researchers, founders, scale-ups, and enterprise clients.
 </p>
 
 ---
@@ -292,6 +288,6 @@ Programming languages, frameworks and other tools that I enjoy to work with.
 <p align="center">
   <a href="https://github.com/luisaveiro" target="_blank">GitHub</a> •
   <a href="https://uk.linkedin.com/in/luisaveiro" target="_blank">LinkedIn</a> •
-  <a href="https://twitter.com/luisdeaveiro" target="_blank">Twitter</a> •
+  <a href="https://x.com/luisdeaveiro" target="_blank">X (Twitter)</a> •
   <a href="https://opendor.me/@luisaveiro" target="_blank">opendor.me</a>
 </p>
